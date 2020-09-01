@@ -11,4 +11,3 @@ To Run:
 Download Python3 and IBM Watson using pip3 install 
 Download the python file
 cd to the directory of the python file, run the python file using "python3 FILENAME.py"
-Enjoy!
